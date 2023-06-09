@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\SHAIK KHADEER BASHA\Documents\KLU 2.2 SUMMER\EP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2823379920.index
+1246026876.index
+1251004727.index
+2599348769.index
+3193722405.index
+1647563754.index
+1673374580.index
